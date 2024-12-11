@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mulab\\Desktop\\StudyApi_Front\\StudyApi_Front.csproj": {}
+    "K:\\Projeto_Api_Luis\\StudyApi_Front\\StudyApi_Front.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mulab\\Desktop\\StudyApi_Front\\StudyApi_Front.csproj": {
+    "K:\\Projeto_Api_Luis\\StudyApi_Front\\StudyApi_Front.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mulab\\Desktop\\StudyApi_Front\\StudyApi_Front.csproj",
+        "projectUniqueName": "K:\\Projeto_Api_Luis\\StudyApi_Front\\StudyApi_Front.csproj",
         "projectName": "StudyApi_Front",
-        "projectPath": "C:\\Users\\mulab\\Desktop\\StudyApi_Front\\StudyApi_Front.csproj",
+        "projectPath": "K:\\Projeto_Api_Luis\\StudyApi_Front\\StudyApi_Front.csproj",
         "packagesPath": "C:\\Users\\mulab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mulab\\Desktop\\StudyApi_Front\\obj\\",
+        "outputPath": "K:\\Projeto_Api_Luis\\StudyApi_Front\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mulab\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "K:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
