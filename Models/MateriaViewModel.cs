@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using EstudosApi.Models.Enuns;
+using StudyApi_Front.Models.Enuns;
 
-namespace EstudosApi.Models
+namespace StudyApi_Front.Models
 {
     public class MateriaViewModel
     {

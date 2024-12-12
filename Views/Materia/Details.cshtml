@@ -1,0 +1,42 @@
+@model StudyApi_Front.Models.MateriaViewModel
+@{
+    ViewBag.Title = "Detalhes da Matéria";
+}
+
+<h2>Detalhes da Matéria</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <!-- ID -->
+        <dt>@Html.DisplayNameFor(model => model.Id)</dt>
+        <dd>@Html.DisplayFor(model => model.Id)</dd>
+
+        <!-- Nome -->
+        <dt>@Html.DisplayNameFor(model => model.Nome)</dt>
+        <dd>@Html.DisplayFor(model => model.Nome)</dd>
+
+        <!-- Horas do Curso -->
+        <dt>@Html.DisplayNameFor(model => model.HorasDoCurso)</dt>
+        <dd>@Html.DisplayFor(model => model.HorasDoCurso)</dd>
+
+        <!-- Descrição -->
+        <dt>@Html.DisplayNameFor(model => model.Descricao)</dt>
+        <dd>@Html.DisplayFor(model => model.Descricao)</dd>
+
+        <!-- Data de Criação -->
+        <dt>@Html.DisplayNameFor(model => model.DataCriacao)</dt>
+        <dd>@Html.DisplayFor(model => model.DataCriacao)</dd>
+
+        <!-- Status da Matéria -->
+        <dt>@Html.DisplayNameFor(model => model.StatusMateria)</dt>
+        <dd>@Html.DisplayFor(model => model.StatusMateria)</dd>
+
+        <!-- Professor -->
+        <dt>@Html.DisplayNameFor(model => model.Professor.Nome)</dt>
+        <dd>@Html.DisplayFor(model => model.Professor.Nome)</dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Retornar", "Index")
+</p>

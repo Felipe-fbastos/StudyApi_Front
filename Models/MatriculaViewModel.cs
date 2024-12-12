@@ -5,7 +5,7 @@ using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using StudyApi_Front.Models;
 
-namespace EstudosApi.Models
+namespace StudyApi_Front.Models
 {
     public class MatriculaViewModel
     {

@@ -1,4 +1,4 @@
-namespace EstudosApi.Models.Enuns
+namespace StudyApi_Front.Models.Enuns
 {
     public enum StatusMateria
     {

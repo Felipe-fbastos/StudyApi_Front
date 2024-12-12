@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace EstudosApi.Models
+namespace StudyApi_Front.Models
 {
     public class ProfessorViewModel
     {

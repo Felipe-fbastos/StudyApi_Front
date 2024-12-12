@@ -9,51 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudyApi_Front
 build_property.RootNamespace = StudyApi_Front
-build_property.ProjectDir = K:\Projeto_Api_Luis\StudyApi_Front\
+build_property.ProjectDir = D:\felipe.pedro\DS\StudyApi_Front\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = K:\Projeto_Api_Luis\StudyApi_Front
+build_property.MSBuildProjectDirectory = D:\felipe.pedro\DS\StudyApi_Front
 build_property._RazorSourceGeneratorDebug = 
 
-[K:/Projeto_Api_Luis/StudyApi_Front/Views/Aluno/AutenticarAluno.cshtml]
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Aluno/AutenticarAluno.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cQXV0ZW50aWNhckFsdW5vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Projeto_Api_Luis/StudyApi_Front/Views/Aluno/CadastrarAluno.cshtml]
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Aluno/CadastrarAluno.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cQ2FkYXN0cmFyQWx1bm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Projeto_Api_Luis/StudyApi_Front/Views/Home/Index.cshtml]
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Projeto_Api_Luis/StudyApi_Front/Views/Home/Privacy.cshtml]
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Projeto_Api_Luis/StudyApi_Front/Views/Shared/Error.cshtml]
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Materia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Materia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Materia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Materia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Projeto_Api_Luis/StudyApi_Front/Views/Shared/_LoginPartialRpg.cshtml]
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Shared/_LoginPartialRpg.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWxScGcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Projeto_Api_Luis/StudyApi_Front/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Projeto_Api_Luis/StudyApi_Front/Views/_ViewImports.cshtml]
+[D:/felipe.pedro/DS/StudyApi_Front/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Projeto_Api_Luis/StudyApi_Front/Views/_ViewStart.cshtml]
+[D:/felipe.pedro/DS/StudyApi_Front/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Projeto_Api_Luis/StudyApi_Front/Views/Shared/_Layout.cshtml]
+[D:/felipe.pedro/DS/StudyApi_Front/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lx05ef9ie6
